@@ -42,9 +42,8 @@ cp -f /usr/local/go/bin/go /usr/bin/
 
 ## Donations
 If this application helped you in any way, or you would like to support me working on it, please donate:
-* Etherium <img src="https://ethereum.org/static/a183661dd70e0e5c70689a0ec95ef0ba/31987/eth-diamond-purple.png"/>: 0x14e2FC230271d1359A3f7bd0C33A05F06Ab0Fc92
-* Toncoin <img src="https://raw.githubusercontent.com/mshogin/assets/master/crypto/logo/toncoin.svg"/>: EQBx9bFDNCnFcis-LDRuHVPd4RY-s9K2__9YMQBeTj7kQPxp
-***bc1qk0jareu4jytc0cfrhr5wgshsq8282awpavfahc***
+* Etherium <img width="16px" height="16px" src="https://ethereum.org/static/a183661dd70e0e5c70689a0ec95ef0ba/31987/eth-diamond-purple.png"/>: 0x14e2FC230271d1359A3f7bd0C33A05F06Ab0Fc92
+* Toncoin <img width="16px" height="16px" src="https://raw.githubusercontent.com/mshogin/assets/master/crypto/logo/toncoin.svg"/>: EQBx9bFDNCnFcis-LDRuHVPd4RY-s9K2__9YMQBeTj7kQPxp
 
 ## Contribution
 
