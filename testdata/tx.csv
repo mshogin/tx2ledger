@@ -1,0 +1,9 @@
+Transactions persönliches Konto (00);;;Customer number: 703 7569247
+05/25/2021 - 11/19/2021
+Old balance:;;;;8,362.42;EUR
+Transactions pending are not included in this report.
+Booking date;Value date;Transaction Type;Beneficiary / Originator;Payment Details;IBAN;BIC;Customer Reference;Mandate Reference;Creditor ID;Compensation amount;Original Amount;Ultimate creditor;Number of transactions;Number of cheques;Debit;Credit;Currency
+05/25/2021;05/25/2021;"SEPA-Direct Debit";PayPal (Europe) S.a.r.l. et Cie., S.C.A.;PP.3239.PP . LIME, Ihr Einkauf bei LIME;DE88;DEUT;1013 PP.3239.PP PAYPAL;5YA;LU96;;;;;;-0.60;;EUR
+05/25/2021;05/25/2021;"SEPA-Direct Debit";PayPal (Europe) S.a.r.l. et Cie., S.C.A.;PP.3239.PP . LIME, Ihr Einkauf bei LIME;DE88;DEUT;1013 PP.3239.PP PAYPAL;5YA;LU96;;;;;;-1.00;;EUR
+05/31/2021;05/31/2021;"Debit Card Payment";;viet thai food//Berlin-Spandau/DE 23-05-2021T20:07:46 Folgenr. 09 Verfalld. 1221;;;;;;;;;;;-26.60;;EUR
+Account balance;11/19/2021;;;5,893.64;EUR

@@ -1,0 +1,10 @@
+{
+    "Expenses:Travel:Others": {
+        "bunnpris bismo": "Travel",
+        "geiranger": "Travel"
+    },
+    "Expenses:Travel:Hotel": {
+        "hotel deutsche flagge": "Hotel",
+        "booking": "Booking"
+    }
+}
